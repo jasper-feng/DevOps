@@ -41,3 +41,5 @@ git commit "add Readme.md file"
 #提交代码到 远程地址（默认名称为origin） 的远程分支（master）
 
 git push -u origin master
+
+ ![result](.\jpg_resource\result.jpg)
