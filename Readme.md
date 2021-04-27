@@ -4,7 +4,7 @@
 
 #设置登录github的用户名和邮箱
 
-git config --global user.name "asper-feng" 
+git config --global user.name "jasper-feng" 
 
 git config --global user.email "jasper.feng@dyxnet.com"
 
