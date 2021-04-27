@@ -2,7 +2,7 @@
 
 
 
-#设置登录github的用户名和密码
+#设置登录github的用户名和邮箱
 
 git config --global user.name "asper-feng" 
 
