@@ -2,6 +2,10 @@
 
 
 
+注：需连接hk vpn
+
+
+
 git clone https://github.com/jasper-feng/DevOps.git
 
  
