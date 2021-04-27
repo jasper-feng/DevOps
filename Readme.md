@@ -38,4 +38,5 @@ git commit "add Readme.md file"
 
 git push -u origin master
 
- ![result](.\jpg_resource\result.jpg)
+ ![result](https://github.com/jasper-feng/DevOps/blob/master/jpg_resource/result.jpg)
+
