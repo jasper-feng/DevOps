@@ -14,13 +14,9 @@ cd DevOps
 
  
 
-git remote remove origin
+创建一个 Readme.md文件
 
- 
 
-git remote add origin https://github.com/jasper-feng/DevOps.git
-
- 
 
 git commit "add Readme.md file"
 
