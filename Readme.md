@@ -2,6 +2,14 @@
 
 
 
+#设置登录github的用户名和密码
+
+git config --global user.name "asper-feng" 
+
+git config --global user.email "jasper.feng@dyxnet.com"
+
+
+
 #克隆项目
 
 git clone https://github.com/jasper-feng/DevOps.git
